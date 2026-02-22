@@ -1,0 +1,17 @@
+shree-pragati-school/
+├── index.html           ← Home page
+├── about.html           ← About page
+├── events.html          ← Events page
+├── gallery.html         ← Gallery page
+├── contact.html         ← Contact page
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css    ← Your custom CSS
+│   ├── js/
+│   │   └── main.js      ← Your JavaScript
+│   └── images/          ← All images
+│       ├── general/     ← Backgrounds, logos
+│       ├── sports-week/
+│       ├── saraswati-puja/
+│       └── annual-function/

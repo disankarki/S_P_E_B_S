@@ -1,0 +1,10 @@
+.hero {
+  height: 90vh;
+  background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
+              url("../images/general/school.jpg") center/cover no-repeat;
+}
+
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
