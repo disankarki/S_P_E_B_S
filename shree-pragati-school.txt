@@ -1,4 +1,4 @@
-shree-pragati-school/
+shree-pragati-school/index.html
 ├── index.html           ← Home page
 ├── about.html           ← About page
 ├── events.html          ← Events page
@@ -14,4 +14,5 @@ shree-pragati-school/
 │       ├── general/     ← Backgrounds, logos
 │       ├── sports-week/
 │       ├── saraswati-puja/
+
 │       └── annual-function/
